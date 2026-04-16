@@ -7,10 +7,10 @@
 ㄴ 초보자가 git 쓸 때 편하게 만듦
 (3) CSS(Cascading Style Sheet) 
 : HTML의 밋밋한 페이지에 스타일링을 해주는 것
-CSS로 글씨 색상, 배경 색상 꾸미기
+CSS로 글씨 색상, 배경 색상 및 스타일 꾸미기
 
 - pwd : 지금 위치 알려주는 명령어
-- git clone <repository 링크> : 만들어놨던 repository 복제됨
+- git clone <repository 링크> : 만들어놨던 repository 저장소 복제됨
 - ls : 이 위치에 어떤 폴더가 있는지 읽어줌
 - cd + 폴더 이름 -> 폴더 안으로 들어가짐
 - cd .. -> 폴더 밖으로 나가짐
