@@ -27,7 +27,7 @@ github flow의 배포 흐름 정리
 (6) test : 테스트 코드 추가/수정
 (7) chore : 기타 잡일
 
-나쁜 예시) commit -m "수정"
-좋은 예시) commit -m "feat : 로그인 기능 구현"
+나쁜 예시) ...git commit -m "수정"...
+좋은 예시) ...git commit -m "feat: 로그인 기능 구현"...
 
-## PR 템플릿
+## PR 템플릿 만들기 - 완성 ✅
